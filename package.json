@@ -1,0 +1,14 @@
+{
+  "name": "new_recepie",
+  "version": "1.0.0",
+  "description": "Food Recepie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
